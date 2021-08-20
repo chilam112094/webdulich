@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Gotu&display=swap');
+*{font-family: 'Gotu', sans-serif;}
+.sec2 h2{width: 100%; height: auto;border-bottom: 1px solid #333}
+.sec2 button{text-transform: uppercase;background-color: #1cddd1;outline: none; border: none;padding: 8px 30px;box-sizing: border-box;border-radius: 9px;}
+footer{}
+@media (max-width: 376px) {.ftt3{display: none;}}
+form input{padding: 10px; border-radius: 9px;border: none;}
+form button {background-color: #1cddd1;outline: none;border: none;padding: 10px;border-radius: 9px}
